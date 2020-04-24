@@ -1,0 +1,36 @@
+{
+  "name": "apple-info",
+  "version": "1.0.0",
+  "description": "API to get information about Apple devices.",
+  "main": "main.js",
+  "scripts": {
+    "build": "Webpack ."
+  },
+  "keywords": [
+    "appleinfo",
+    "apple-device-info",
+    "apple-device-specs",
+    "apple-specifications",
+    "apple-specs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": {
+    "name": "Manoj Satishkumar",
+    "email": "88manojs@gmail.com",
+    "url": "https://manojsatishkumar.github.io/"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-jest": "^23.8.2",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
