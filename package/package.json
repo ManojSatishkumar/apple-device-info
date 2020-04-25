@@ -1,0 +1,19 @@
+{
+  "name": "apple-info",
+  "version": "1.0.0",
+  "description": "API to get information about Apple devices.",
+  "main": "apple-info.min.js",
+  "keywords": [
+    "appleinfo",
+    "apple-device-info",
+    "apple-device-specs",
+    "apple-specifications",
+    "apple-specs"
+  ],
+  "author": {
+    "name": "Manoj Satishkumar",
+    "email": "88manojs@gmail.com",
+    "url": "https://manojsatishkumar.github.io/"
+  },
+  "license": "ISC"
+}

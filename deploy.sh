@@ -1,0 +1,2 @@
+cd package;
+npm publish;

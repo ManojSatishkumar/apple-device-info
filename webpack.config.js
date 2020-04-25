@@ -4,8 +4,8 @@ module.exports = {
   mode: 'production',
   entry: './index.js',
   output: {
-    path: path.resolve(__dirname, '.'),
-    filename: 'main.js',
+    path: path.resolve(__dirname, './package'),
+    filename: 'apple-info.min.js',
     libraryTarget: 'commonjs2',
   },
   module: {
