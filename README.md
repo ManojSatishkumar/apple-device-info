@@ -16,6 +16,7 @@ const AppleInfo = require('apple-info);
 or
 import AppleInfo from 'apple-info';
 
+
 And then,
 
 const iphoneSE2020 = AppleInfo.getIphoneDetails('iPhoneSE2020', 'A2296');
