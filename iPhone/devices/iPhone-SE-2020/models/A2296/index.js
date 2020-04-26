@@ -3,11 +3,11 @@ const technology = require('../../../../../utils/technology');
 
 const network = {
   technology: [
-    technology.gsm,
-    technology.cdma,
-    technology.hspa,
-    technology.evdo,
-    technology.lte,
+    technology.GSM,
+    technology.CDMA,
+    technology.HSPA,
+    technology.EVDO,
+    technology.LTE,
   ],
   '2G bands': 'GSM 850 / 900 / 1800 / 1900',
   '3G bands': 'HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV - DO',

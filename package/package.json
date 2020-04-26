@@ -1,5 +1,5 @@
 {
-  "name": "apple-info",
+  "name": "apple-device-info",
   "version": "1.0.0",
   "description": "API to get information about Apple devices.",
   "main": "apple-info.min.js",

@@ -1,4 +1,4 @@
-# AppleInfo 🍎📱
+# Apple Device Info 🍎📱
 
 Get information and specifications of Apple devices with this npm package.
 
@@ -7,18 +7,19 @@ Get information and specifications of Apple devices with this npm package.
 
 ### How to install
 <pre><code>
-npm i apple-info
+npm i apple-device-info
 </code></pre>
 
 ### How to use
 <pre><code>
-const AppleInfo = require('apple-info);
+const AppleDeviceInfo = require('apple-device-info);
 or
-import AppleInfo from 'apple-info';
+import AppleDeviceInfo from 'apple-device-info';
+
 
 And then,
 
-const iphoneSE2020 = AppleInfo.getIphoneDetails('iPhoneSE2020', 'A2296');
+const iphoneSE2020 = AppleDeviceInfo.getIphoneDetails('iPhoneSE2020', 'A2296');
 </code></pre>
 
 --- 
