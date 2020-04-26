@@ -32,7 +32,7 @@ A2296
 ---
 
 Made with ♥️ 
-[Manoj Satishkumar](Satishkumar|https://manojsatishkumar.github.io/)
+[Manoj Satishkumar](https://manojsatishkumar.github.io/)
 
 
 
